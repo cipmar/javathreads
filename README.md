@@ -1,4 +1,5 @@
 # Java Concurrency Recipes
+From book "Java 9 Concurrency Cookbook, Second Edition, by Javier Fernández González"
 * [recipe01](/src/main/java/javathreads/recipe01/) Starting a thread, name of a thread, status and priority of threads
 * [recipe02](/src/main/java/javathreads/recipe02/) Interrupting a thread
 * [recipe03](/src/main/java/javathreads/recipe03/) Controlling the interruption of a thread
