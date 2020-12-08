@@ -1,7 +1,7 @@
 package javathreads.recipe13;
 
 /**
- * Synchronizing a bloc of code with lock.
+ * Synchronizing a block of code with lock.
  *
  * @author mropotica
  */
