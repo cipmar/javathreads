@@ -10,7 +10,7 @@ public class Searcher implements Runnable {
 
 	private final int firstRow;
 	private final int lastRow;
-	private MatrixMock matrixMock;
+	private final MatrixMock matrixMock;
 	private final Results results;
 	private final int numberToSearch;
 	private final CyclicBarrier barrier;
@@ -35,7 +35,7 @@ public class Searcher implements Runnable {
 
 		for (int i = firstRow; i < lastRow; i++) {
 
-			int row[] = matrixMock.getRow(i);
+			int[] row = matrixMock.getRow(i);
 			counter = 0;
 
 			for (int j = 0; j < row.length; j++) {

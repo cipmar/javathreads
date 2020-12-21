@@ -5,7 +5,7 @@ package javathreads.recipe18;
  */
 public class Results {
 
-	private final int data[];
+	private final int[] data;
 
 	public Results(int size) {
 		this.data = new int[size];
