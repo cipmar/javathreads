@@ -15,3 +15,7 @@ From book "Java 9 Concurrency Cookbook, Second Edition, by Javier Fernández Gon
 * [recipe13](/src/main/java/javathreads/recipe13/) Synchronizing a block of code with lock
 * [recipe14](/src/main/java/javathreads/recipe14/) Synchronizing data access with read/write locks
 * [recipe15](/src/main/java/javathreads/recipe15/) Using multiple conditions in a lock
+* [recipe16](/src/main/java/javathreads/recipe16/) Semaphores - Controlling concurrent access to one or more copies of a resource
+* [recipe17](/src/main/java/javathreads/recipe17/) CountDownLatch - Waiting for multiple concurrent updates
+* [recipe18](/src/main/java/javathreads/recipe18/) CyclicBarrier - Synchronizing tasks in a common point
+
