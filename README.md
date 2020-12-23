@@ -23,3 +23,4 @@ From book "Java 9 Concurrency Cookbook, Second Edition, by Javier Fernández Gon
 * [recipe19](/src/main/java/javathreads/recipe19/) Phaser - Running concurrent-phased tasks
 * [recipe20](/src/main/java/javathreads/recipe20/) Phaser - Controlling phase change in concurrent-phased tasks
 * [recipe21](/src/main/java/javathreads/recipe21/) Exchanger - Exchanging data between concurrent tasks
+* [recipe22](/src/main/java/javathreads/recipe22/) CompletableFuture - Completing and linking tasks asynchronously
