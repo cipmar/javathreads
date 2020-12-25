@@ -36,3 +36,4 @@ From the book "Java 9 Concurrency Cookbook, Second Edition, by Javier Fernández
 ## Executors
 
 * [recipe01](/src/main/java/javathreads/executors/recipe01/) Executors - Creating a thread executor and controlling its rejected tasks
+* [recipe02](/src/main/java/javathreads/executors/recipe02/) Executors - Execute a task in an executor that returns a result
