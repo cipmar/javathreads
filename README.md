@@ -42,3 +42,4 @@ From the book "Java 9 Concurrency Cookbook, Second Edition, by Javier Fernández
 * [recipe05](/src/main/java/javathreads/executors/recipe05/) Running a task in an executor after a delay
 * [recipe06](/src/main/java/javathreads/executors/recipe06/) Executing a task in an executor periodically
 * [recipe07](/src/main/java/javathreads/executors/recipe07/) Cancelling a task in an executor
+* [recipe08](/src/main/java/javathreads/executors/recipe08/) Controlling a task finishing in an executor
