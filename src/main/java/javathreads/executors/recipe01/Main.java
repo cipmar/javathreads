@@ -1,7 +1,7 @@
 package javathreads.executors.recipe01;
 
 /**
- * Executors - Creating a thread executor and controlling its rejected tasks
+ * Creating a thread executor and controlling its rejected tasks
  *
  * @author mropotica
  */

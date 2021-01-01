@@ -8,7 +8,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 
 /**
- * Executors - Running multiple tasks ans processing all the results
+ * Running multiple tasks ans processing all the results
  *
  * @author mropotica
  */

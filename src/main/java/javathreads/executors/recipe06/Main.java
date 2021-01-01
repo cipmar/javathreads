@@ -7,7 +7,7 @@ import java.util.concurrent.ScheduledFuture;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Executors - Executing a task in an executor periodically
+ * Executing a task in an executor periodically
  *
  * @author mropotica
  */

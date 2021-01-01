@@ -7,7 +7,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
- * Executors - Running multiple tasks and processing of the first result (the fastest result)
+ * Running multiple tasks and processing of the first result (the fastest result)
  *
  * @author mropotica
  */

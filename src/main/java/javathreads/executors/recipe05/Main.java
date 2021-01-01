@@ -6,7 +6,7 @@ import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Executors - Running a task in an executor after a delay
+ * Running a task in an executor after a delay
  *
  * @author mropotica
  */

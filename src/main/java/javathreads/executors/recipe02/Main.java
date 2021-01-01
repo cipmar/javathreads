@@ -10,7 +10,7 @@ import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Executors - Execute a task in an executor that returns a result
+ * Execute a task in an executor that returns a result
  *
  * @author mropotica
  */
